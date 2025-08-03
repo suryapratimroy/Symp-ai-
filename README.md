@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryapratimroy/Symp-ai-/refs/heads/main/create-a-professional-animated-style-log_nEaEotUVR3KIRJihXBxkQg_HJHuq9WfR6mY_Sn0xbM4Pg.jpeg" width="300"/>
+</p>
+
 # Symp AI – Your Health Assistant 🤖💊
 
 Symp AI is an AI-powered health assistant developed as part of an IBM Hackathon project.  
