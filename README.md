@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/suryapratimroy/Symp-ai-/refs/heads/main/create-a-professional-animated-style-log_nEaEotUVR3KIRJihXBxkQg_HJHuq9WfR6mY_Sn0xbM4Pg.jpeg" width="300"/>
 </p>
 
-# Symp AI – Your Health Assistant 🤖💊
+# Symp AI – Agentic AI Health Symptom Checker 🤖💊
 
 Symp AI is an AI-powered health assistant developed as part of an IBM Hackathon project.  
 It helps users identify possible diseases based on their symptoms using IBM Watsonx.ai.
