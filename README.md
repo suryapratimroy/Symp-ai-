@@ -29,9 +29,6 @@ It uses IBM’s Watsonx.ai platform and integrates NLP tools, foundation models 
 - Agent Builder (IBM)  
 - Mistral Model (via IBM)  
 - Google Search Tool  
-- Python for backend logic  
-- Dataset used in the form of screenshots  
-- Streamlit (optional for frontend)
 
 ---
 
